@@ -93,7 +93,7 @@ You can download my resume directly from the portfolio website using the Downloa
 
 👉 Live Website:
 
-https://your-portfolio.vercel.app](https://nithish-kumar-8999-portfolio.vercel.app/
+https://nithish-kumar-8999-portfolio.vercel.app/
 
 ⚙️ Local Setup
 
